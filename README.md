@@ -29,3 +29,5 @@ After libraries are checked, run the app via streamlit:
 ```bash
 streamlit run app.py
 ```
+## Video:
+https://github.com/user-attachments/assets/77ead3aa-fe97-4d1c-917d-4b7b2df85ee9
