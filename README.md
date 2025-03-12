@@ -2,6 +2,7 @@
 
 This application uses Llama2-Chat Large Language Model with Chroma Vector Database to provide RAG. This allows the LLM to get context from the PDF document and answer the queries instead of having to be directly fine tuned (which is extremely compute expensive).
 
+[Disclaimer]: Due to prevent unauthorized disclosure, no code is available for now, but I have provided a demo video run.
 
 ## Dependencies/Libraries used
 
